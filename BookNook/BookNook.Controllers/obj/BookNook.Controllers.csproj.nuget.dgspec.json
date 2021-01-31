@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.Controllers\\BookNook.Controllers.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNok.BaseInterfaces\\BookNook.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNok.BaseInterfaces\\BookNook.Base.csproj",
+        "projectName": "BookNook.Base",
+        "projectPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNok.BaseInterfaces\\BookNook.Base.csproj",
+        "packagesPath": "C:\\Users\\Nika\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNok.BaseInterfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj": {
+                "projectPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.Controllers\\BookNook.Controllers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.Controllers\\BookNook.Controllers.csproj",
+        "projectName": "BookNook.Controllers",
+        "projectPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.Controllers\\BookNook.Controllers.csproj",
+        "packagesPath": "C:\\Users\\Nika\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.Controllers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNok.BaseInterfaces\\BookNook.Base.csproj": {
+                "projectPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNok.BaseInterfaces\\BookNook.Base.csproj"
+              },
+              "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.MemoryBasedDAL\\BookNook.MemoryBasedDAL.csproj": {
+                "projectPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.MemoryBasedDAL\\BookNook.MemoryBasedDAL.csproj"
+              },
+              "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj": {
+                "projectPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.MemoryBasedDAL\\BookNook.MemoryBasedDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.MemoryBasedDAL\\BookNook.MemoryBasedDAL.csproj",
+        "projectName": "BookNook.MemoryBasedDAL",
+        "projectPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.MemoryBasedDAL\\BookNook.MemoryBasedDAL.csproj",
+        "packagesPath": "C:\\Users\\Nika\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.MemoryBasedDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNok.BaseInterfaces\\BookNook.Base.csproj": {
+                "projectPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNok.BaseInterfaces\\BookNook.Base.csproj"
+              },
+              "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj": {
+                "projectPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

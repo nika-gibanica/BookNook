@@ -1,0 +1,9 @@
+D:\projekti\OBJOBL\BookNook\BookNook\obj\Debug\netstandard2.0\BookNook.DomainModel.csprojAssemblyReference.cache
+D:\projekti\OBJOBL\BookNook\BookNook\obj\Debug\netstandard2.0\BookNook.DomainModel.AssemblyInfoInputs.cache
+D:\projekti\OBJOBL\BookNook\BookNook\obj\Debug\netstandard2.0\BookNook.DomainModel.AssemblyInfo.cs
+D:\projekti\OBJOBL\BookNook\BookNook\obj\Debug\netstandard2.0\BookNook.DomainModel.csproj.CoreCompileInputs.cache
+D:\projekti\OBJOBL\BookNook\BookNook\bin\Debug\netstandard2.0\BookNook.DomainModel.deps.json
+D:\projekti\OBJOBL\BookNook\BookNook\bin\Debug\netstandard2.0\BookNook.DomainModel.dll
+D:\projekti\OBJOBL\BookNook\BookNook\bin\Debug\netstandard2.0\BookNook.DomainModel.pdb
+D:\projekti\OBJOBL\BookNook\BookNook\obj\Debug\netstandard2.0\BookNook.DomainModel.dll
+D:\projekti\OBJOBL\BookNook\BookNook\obj\Debug\netstandard2.0\BookNook.DomainModel.pdb

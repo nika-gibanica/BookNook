@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "kdTsI0v4ng3eAB8uYse0hc4zjc/vS0d+O4GLgtrJ8HiQVTlY4+1srlsQUNw+8+AlpkUvhTvMfE+dLxwUQCdStQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.AppStarter\\BookNook.AppStarter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nika\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}

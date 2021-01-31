@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "BookNook.AppStarter/1.0.0": {
+        "dependencies": {
+          "BookNook.Controllers": "1.0.0",
+          "BookNook.MemoryBasedDAL": "1.0.0",
+          "BookNook.PresentationLayer": "1.0.0"
+        },
+        "runtime": {
+          "BookNook.AppStarter.dll": {}
+        }
+      },
+      "BookNook.Base/1.0.0": {
+        "dependencies": {
+          "BookNook.DomainModel": "1.0.0"
+        },
+        "runtime": {
+          "BookNook.Base.dll": {}
+        }
+      },
+      "BookNook.Controllers/1.0.0": {
+        "dependencies": {
+          "BookNook.Base": "1.0.0",
+          "BookNook.DomainModel": "1.0.0",
+          "BookNook.MemoryBasedDAL": "1.0.0"
+        },
+        "runtime": {
+          "BookNook.Controllers.dll": {}
+        }
+      },
+      "BookNook.DomainModel/1.0.0": {
+        "runtime": {
+          "BookNook.DomainModel.dll": {}
+        }
+      },
+      "BookNook.MemoryBasedDAL/1.0.0": {
+        "dependencies": {
+          "BookNook.Base": "1.0.0",
+          "BookNook.DomainModel": "1.0.0"
+        },
+        "runtime": {
+          "BookNook.MemoryBasedDAL.dll": {}
+        }
+      },
+      "BookNook.PresentationLayer/1.0.0": {
+        "dependencies": {
+          "BookNook.Base": "1.0.0",
+          "BookNook.Controllers": "1.0.0",
+          "BookNook.DomainModel": "1.0.0"
+        },
+        "runtime": {
+          "BookNook.PresentationLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookNook.AppStarter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookNook.Base/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookNook.Controllers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookNook.DomainModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookNook.MemoryBasedDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookNook.PresentationLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

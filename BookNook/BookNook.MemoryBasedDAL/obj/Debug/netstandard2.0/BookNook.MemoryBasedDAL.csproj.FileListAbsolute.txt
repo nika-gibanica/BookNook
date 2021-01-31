@@ -1,0 +1,14 @@
+D:\projekti\OBJOBL\BookNook\BookNook.MemoryBasedDAL\bin\Debug\netstandard2.0\BookNook.MemoryBasedDAL.deps.json
+D:\projekti\OBJOBL\BookNook\BookNook.MemoryBasedDAL\bin\Debug\netstandard2.0\BookNook.MemoryBasedDAL.dll
+D:\projekti\OBJOBL\BookNook\BookNook.MemoryBasedDAL\bin\Debug\netstandard2.0\BookNook.MemoryBasedDAL.pdb
+D:\projekti\OBJOBL\BookNook\BookNook.MemoryBasedDAL\bin\Debug\netstandard2.0\BookNook.DomainModel.dll
+D:\projekti\OBJOBL\BookNook\BookNook.MemoryBasedDAL\bin\Debug\netstandard2.0\BookNook.DomainModel.pdb
+D:\projekti\OBJOBL\BookNook\BookNook.MemoryBasedDAL\obj\Debug\netstandard2.0\BookNook.MemoryBasedDAL.csprojAssemblyReference.cache
+D:\projekti\OBJOBL\BookNook\BookNook.MemoryBasedDAL\obj\Debug\netstandard2.0\BookNook.MemoryBasedDAL.AssemblyInfoInputs.cache
+D:\projekti\OBJOBL\BookNook\BookNook.MemoryBasedDAL\obj\Debug\netstandard2.0\BookNook.MemoryBasedDAL.AssemblyInfo.cs
+D:\projekti\OBJOBL\BookNook\BookNook.MemoryBasedDAL\obj\Debug\netstandard2.0\BookNook.MemoryBasedDAL.csproj.CoreCompileInputs.cache
+D:\projekti\OBJOBL\BookNook\BookNook.MemoryBasedDAL\obj\Debug\netstandard2.0\BookNook.MemoryBasedDAL.csproj.CopyComplete
+D:\projekti\OBJOBL\BookNook\BookNook.MemoryBasedDAL\obj\Debug\netstandard2.0\BookNook.MemoryBasedDAL.dll
+D:\projekti\OBJOBL\BookNook\BookNook.MemoryBasedDAL\obj\Debug\netstandard2.0\BookNook.MemoryBasedDAL.pdb
+D:\projekti\OBJOBL\BookNook\BookNook.MemoryBasedDAL\bin\Debug\netstandard2.0\BookNook.Base.dll
+D:\projekti\OBJOBL\BookNook\BookNook.MemoryBasedDAL\bin\Debug\netstandard2.0\BookNook.Base.pdb

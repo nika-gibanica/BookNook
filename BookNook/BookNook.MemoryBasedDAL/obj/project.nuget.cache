@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "cKa+Y4c5L1+8L7JdmQuQP8Buc5MGlWwJsJes9gC6r6jf7py4rOntoW/NwjrHDU+JYQMcVk2CQsNvolCkOVWsxA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.MemoryBasedDAL\\BookNook.MemoryBasedDAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nika\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "86F3KYoZ0CnG8qANXAuQaVU1QOCb621xmjB3W0znDXAL3r0czBvYooEJpBfiMaFeSkfHA6fzBUoZvVQkTWT+2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.DomainModel\\BookNook.DomainModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nika\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

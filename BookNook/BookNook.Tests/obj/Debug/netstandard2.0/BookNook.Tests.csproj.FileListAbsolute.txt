@@ -1,0 +1,16 @@
+D:\projekti\OBJOBL\BookNook\BookNook.Tests\bin\Debug\netstandard2.0\BookNook.DomainModel.dll
+D:\projekti\OBJOBL\BookNook\BookNook.Tests\bin\Debug\netstandard2.0\BookNook.MemoryBasedDAL.dll
+D:\projekti\OBJOBL\BookNook\BookNook.Tests\obj\Debug\netstandard2.0\BookNook.Tests.AssemblyInfoInputs.cache
+D:\projekti\OBJOBL\BookNook\BookNook.Tests\obj\Debug\netstandard2.0\BookNook.Tests.AssemblyInfo.cs
+D:\projekti\OBJOBL\BookNook\BookNook.Tests\obj\Debug\netstandard2.0\BookNook.Tests.csprojAssemblyReference.cache
+D:\projekti\OBJOBL\BookNook\BookNook.Tests\bin\Debug\netstandard2.0\BookNook.Tests.deps.json
+D:\projekti\OBJOBL\BookNook\BookNook.Tests\bin\Debug\netstandard2.0\BookNook.Tests.dll
+D:\projekti\OBJOBL\BookNook\BookNook.Tests\bin\Debug\netstandard2.0\BookNook.Tests.pdb
+D:\projekti\OBJOBL\BookNook\BookNook.Tests\bin\Debug\netstandard2.0\BookNook.MemoryBasedDAL.pdb
+D:\projekti\OBJOBL\BookNook\BookNook.Tests\bin\Debug\netstandard2.0\BookNook.DomainModel.pdb
+D:\projekti\OBJOBL\BookNook\BookNook.Tests\obj\Debug\netstandard2.0\BookNook.Tests.csproj.CoreCompileInputs.cache
+D:\projekti\OBJOBL\BookNook\BookNook.Tests\obj\Debug\netstandard2.0\BookNook.Tests.csproj.CopyComplete
+D:\projekti\OBJOBL\BookNook\BookNook.Tests\obj\Debug\netstandard2.0\BookNook.Tests.dll
+D:\projekti\OBJOBL\BookNook\BookNook.Tests\obj\Debug\netstandard2.0\BookNook.Tests.pdb
+D:\projekti\OBJOBL\BookNook\BookNook.Tests\bin\Debug\netstandard2.0\BookNook.Base.dll
+D:\projekti\OBJOBL\BookNook\BookNook.Tests\bin\Debug\netstandard2.0\BookNook.Base.pdb

@@ -1,0 +1,206 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "BookNook.Base/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookNook.Base.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookNook.Base.dll": {}
+        }
+      },
+      "BookNook.Controllers/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "BookNook.Base": "1.0.0",
+          "BookNook.MemoryBasedDAL": "1.0.0",
+          "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookNook.Controllers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookNook.Controllers.dll": {}
+        }
+      },
+      "BookNook.DomainModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/BookNook.DomainModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookNook.DomainModel.dll": {}
+        }
+      },
+      "BookNook.MemoryBasedDAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "BookNook.Base": "1.0.0",
+          "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookNook.MemoryBasedDAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookNook.MemoryBasedDAL.dll": {}
+        }
+      },
+      "BookNook.PresentationLayer/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "BookNook.Base": "1.0.0",
+          "BookNook.Controllers": "1.0.0",
+          "BookNook.DomainModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookNook.PresentationLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookNook.PresentationLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookNook.Base/1.0.0": {
+      "type": "project",
+      "path": "../BookNok.BaseInterfaces/BookNook.Base.csproj",
+      "msbuildProject": "../BookNok.BaseInterfaces/BookNook.Base.csproj"
+    },
+    "BookNook.Controllers/1.0.0": {
+      "type": "project",
+      "path": "../BookNook.Controllers/BookNook.Controllers.csproj",
+      "msbuildProject": "../BookNook.Controllers/BookNook.Controllers.csproj"
+    },
+    "BookNook.DomainModel/1.0.0": {
+      "type": "project",
+      "path": "../BookNook.DomainModel/BookNook.DomainModel.csproj",
+      "msbuildProject": "../BookNook.DomainModel/BookNook.DomainModel.csproj"
+    },
+    "BookNook.MemoryBasedDAL/1.0.0": {
+      "type": "project",
+      "path": "../BookNook.MemoryBasedDAL/BookNook.MemoryBasedDAL.csproj",
+      "msbuildProject": "../BookNook.MemoryBasedDAL/BookNook.MemoryBasedDAL.csproj"
+    },
+    "BookNook.PresentationLayer/1.0.0": {
+      "type": "project",
+      "path": "../BookNook.PresentationLayer/BookNook.PresentationLayer.csproj",
+      "msbuildProject": "../BookNook.PresentationLayer/BookNook.PresentationLayer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "BookNook.Controllers >= 1.0.0",
+      "BookNook.MemoryBasedDAL >= 1.0.0",
+      "BookNook.PresentationLayer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Nika\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.AppStarter\\BookNook.AppStarter.csproj",
+      "projectName": "BookNook.AppStarter",
+      "projectPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.AppStarter\\BookNook.AppStarter.csproj",
+      "packagesPath": "C:\\Users\\Nika\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.AppStarter\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Nika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
+          "projectReferences": {
+            "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.Controllers\\BookNook.Controllers.csproj": {
+              "projectPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.Controllers\\BookNook.Controllers.csproj"
+            },
+            "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.MemoryBasedDAL\\BookNook.MemoryBasedDAL.csproj": {
+              "projectPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.MemoryBasedDAL\\BookNook.MemoryBasedDAL.csproj"
+            },
+            "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.PresentationLayer\\BookNook.PresentationLayer.csproj": {
+              "projectPath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.PresentationLayer\\BookNook.PresentationLayer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "targetAlias": "netcoreapp3.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.0.3, 3.0.3]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}

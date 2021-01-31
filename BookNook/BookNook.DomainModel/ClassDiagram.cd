@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BookNook.DomainModel.Book">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAECAABEIAAAEAAiAIAABIAAAAAAAAEAAAAAAAACAE=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookNook.DomainModel.BookLibrary">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAQAAICCAACAgAAAAAAAAAAEAAAAAAEAAAIAA=</HashCode>
+      <FileName>BookLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookNook.DomainModel.BookOwned">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAACAAAAQgAAAEAAAAAEAAAABAAAA=</HashCode>
+      <FileName>BookOwned.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookNook.DomainModel.BookRead">
+    <Position X="1.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAAAA=</HashCode>
+      <FileName>BookRead.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookNook.DomainModel.BookTBR">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BookTBR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookNook.DomainModel.BookWishlist">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BookWishlist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookNook.DomainModel.Factories.GoalFactory">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Factories\GoalFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookNook.DomainModel.Factories.BookFactory">
+    <Position X="1.25" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAEAAAAAIAAAAgAAAAEAA=</HashCode>
+      <FileName>Factories\BookFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookNook.DomainModel.Goal">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgIAIEAAAAAAEgAAAAAAAoAAAAAEAAgAA=</HashCode>
+      <FileName>Goal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookNook.DomainModel.GoalBook">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>GoalBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

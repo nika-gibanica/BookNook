@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <OutputType>WinExe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookNook.Controllers\BookNook.Controllers.csproj" />
+    <ProjectReference Include="..\BookNook.MemoryBasedDAL\BookNook.MemoryBasedDAL.csproj" />
+    <ProjectReference Include="..\BookNook.PresentationLayer\BookNook.PresentationLayer.csproj" />
+  </ItemGroup>
+
+</Project>

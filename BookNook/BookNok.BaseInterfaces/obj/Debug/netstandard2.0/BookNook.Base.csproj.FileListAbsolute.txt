@@ -1,0 +1,12 @@
+D:\projekti\OBJOBL\BookNook\BookNok.BaseInterfaces\obj\Debug\netstandard2.0\BookNook.Base.csprojAssemblyReference.cache
+D:\projekti\OBJOBL\BookNook\BookNok.BaseInterfaces\obj\Debug\netstandard2.0\BookNook.Base.AssemblyInfoInputs.cache
+D:\projekti\OBJOBL\BookNook\BookNok.BaseInterfaces\obj\Debug\netstandard2.0\BookNook.Base.AssemblyInfo.cs
+D:\projekti\OBJOBL\BookNook\BookNok.BaseInterfaces\obj\Debug\netstandard2.0\BookNook.Base.csproj.CoreCompileInputs.cache
+D:\projekti\OBJOBL\BookNook\BookNok.BaseInterfaces\bin\Debug\netstandard2.0\BookNook.Base.deps.json
+D:\projekti\OBJOBL\BookNook\BookNok.BaseInterfaces\bin\Debug\netstandard2.0\BookNook.Base.dll
+D:\projekti\OBJOBL\BookNook\BookNok.BaseInterfaces\bin\Debug\netstandard2.0\BookNook.Base.pdb
+D:\projekti\OBJOBL\BookNook\BookNok.BaseInterfaces\bin\Debug\netstandard2.0\BookNook.DomainModel.dll
+D:\projekti\OBJOBL\BookNook\BookNok.BaseInterfaces\bin\Debug\netstandard2.0\BookNook.DomainModel.pdb
+D:\projekti\OBJOBL\BookNook\BookNok.BaseInterfaces\obj\Debug\netstandard2.0\BookNook.Base.csproj.CopyComplete
+D:\projekti\OBJOBL\BookNook\BookNok.BaseInterfaces\obj\Debug\netstandard2.0\BookNook.Base.dll
+D:\projekti\OBJOBL\BookNook\BookNok.BaseInterfaces\obj\Debug\netstandard2.0\BookNook.Base.pdb

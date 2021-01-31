@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "dgSpecHash": "jGmtQMxuktUvvDda10oRHY6awM9lvfnUCKx6EaO/irMVeX0RNWlJtRBUlhy0zIIOwnDUvsAdr1+dsz5MbpquNg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook.Tests\\BookNook.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nika\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\microsoft.visualstudio.unittesting\\11.0.50727.1\\microsoft.visualstudio.unittesting.11.0.50727.1.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\testtoolstoxunitproxy\\0.0.4\\testtoolstoxunitproxy.0.0.4.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\xunit\\2.2.0\\xunit.2.2.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\xunit.abstractions\\2.0.1\\xunit.abstractions.2.0.1.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\xunit.assert\\2.2.0\\xunit.assert.2.2.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\xunit.core\\2.2.0\\xunit.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\xunit.extensibility.core\\2.2.0\\xunit.extensibility.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\xunit.extensibility.execution\\2.2.0\\xunit.extensibility.execution.2.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Nika\\Desktop\\Gibanica_NIka_BookNook\\BookNook\\BookNook\\BookNook.DomainModel.csproj",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.VisualStudio.UnitTesting 11.0.50727.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.VisualStudio.UnitTesting",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
